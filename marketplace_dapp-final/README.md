@@ -1,6 +1,5 @@
 # Decentralized Online Marketplace
 ## Consensys Academy Final Project
-### Zach Carroll - carroll.zach@gmail.com
 
 #### Additional Internal Documentation
 - [Design Pattern Documentation](documentation/design_pattern_decisions.md)
